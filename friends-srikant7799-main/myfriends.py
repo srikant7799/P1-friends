@@ -20,7 +20,7 @@ from py_friends.friends import Friends
 
 If you worked in a group on this project, please type the EIDs of your groupmates below (do not include yourself).
 Leave it as TODO otherwise.
-Groupmate 1: TODO
+Groupmate 1: bkm2384
 Groupmate 2: TODO
 """
 
